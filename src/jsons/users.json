@@ -1,0 +1,20 @@
+[
+  {
+    "admin": {
+      "password": "admin",
+      "role": "admin"
+    }
+  },
+  {
+    "profesor": {
+      "password": "profesor",
+      "role": "profesor"
+    }
+  },
+  {
+    "30979496": {
+      "password": "v(YutoR&",
+      "role": "alumno"
+    }
+  }
+]
