@@ -1,0 +1,19 @@
+{
+  "name": "jest-testing-student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb-memory-server": "^8.16.1",
+    "mongoose": "^6.13.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
